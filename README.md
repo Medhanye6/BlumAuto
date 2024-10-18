@@ -1,4 +1,4 @@
-# BlumTod
+# BlumAuto
 
 AUTO CLAIM FOR BLUM / @blum
 
@@ -118,12 +118,12 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone https://github.com/Medhanye6/BlumAuto.git
    ```
 
 3. Enter the BlumTod folder
    ```
-   cd blumtod
+   cd BlumAuto 
    ```
 
 4. Install the required modules/libraries.
@@ -155,12 +155,12 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone https://github.com/Medhanye6/BlumAuto.git
    ```
 
 3. Enter the BlumTod folder
    ```
-   cd blumtod
+   cd BlumAuto
    ```
 
 4. Install the required modules/libraries.
@@ -192,12 +192,12 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/akasakaid/blumtod.git
+   git clone https://github.com/Medhanye6/BlumAuto.git
    ```
 
 3. Enter the BlumTod folder
    ```
-   cd blumtod
+   cd BlumAuto
    ```
 
 4. Install the required modules/libraries.
@@ -216,11 +216,6 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 To view a report of the total balance of all accounts you can run a file called `report.py`
 
-# How to Get the Query
-
-The required data is the same as [pixelversebot](https://github.com/akasakaid/pixelversebot), so you can watch the same tutorial video!
-
-Here: [https://youtu.be/KTZW9A75guI](https://youtu.be/KTZW9A75guI)
 
 # JavaScript Code to Get Data in Telegram Desktop App
 
@@ -280,7 +275,7 @@ You can run the bot script 24/7 using a VPS/RDP. You can use the `screen` or `pm
 
 # Discussion
 
-If you have questions or anything else, you can ask here: [@sdsproject_chat](https://t.me/sdsproject_chat)
+If you have questions or anything else, you can ask here: [@Tigraytehc](https://t.me/tigraytechc)
 
 # Questions and Answers
 
