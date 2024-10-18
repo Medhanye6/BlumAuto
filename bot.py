@@ -1,4 +1,4 @@
-import pyfiglet
+
 import os
 import re
 import sys
@@ -446,12 +446,13 @@ async def get_data(data_file, proxy_file):
     return datas, proxies
 
 
-def print_banner():
-    ascii_banner = pyfiglet.figlet_format("TIGRAY TECH")
-    print(ascii_banner)
-    print(" made and written by TIGRAY TECH")
-    print(" join telegram channel: https://t.me/tigraytechc")
-    
+async def main():
+    banner = f"""
+{magenta}┏┓┳┓┏┓  ┏┓    •      {white}Blum Auto Claim for {green}blum
+{magenta}┗┓┃┃┗┓  ┃┃┏┓┏┓┓┏┓┏╋  {green}Author : {white}Medhanye6
+{magenta}┗┛┻┛┗┛  ┣┛┛ ┗┛┃┗ ┗┗  {white}Github : {green}https://github.com/Medhanye6
+{magenta}              ┛      {green}Note : {white}Every Action Has a Consequence
+        """
     arg = argparse.ArgumentParser()
     arg.add_argument(
         "--data",
