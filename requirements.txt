@@ -1,3 +1,4 @@
+pyfiglet
 requests
 requests[socks]
 colorama
